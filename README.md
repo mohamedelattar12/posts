@@ -1,5 +1,5 @@
 # khaled tarek
-<span align="right">امبارح كنت سالت علي</span><span align="right">**resources** </span> <span align="right">لل</span> <span align="right">**embedded linux**</span> <span align="right">و حبيت اشارك معاكو انهارده الحاجات الي لقيتها</span>
+امبارح كنت سالت علي **resources** لل **embedded linux** و حبيت اشارك معاكو انهارده الحاجات الي لقيتها
 البوست طويل فا هيتقسم علي 3 بوستات
 هبدا بالمصادر المكتوبه زي ال pdf وبعدين تاني جزء هيبقي الفيديوهات و في الاخر هحط الكتب
 
